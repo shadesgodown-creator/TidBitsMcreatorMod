@@ -1,0 +1,13 @@
+{
+  "item.random_tids_and_bits.melted_tid_bits_bucket": "MeltedTidBits Bucket",
+  "fluid.melted_tid_bits": "MeltedTidBits",
+  "item.random_tids_and_bits.tid_bit_sword_handle": "Tid Bit Sword Handle",
+  "item.random_tids_and_bits.bits": "Bits",
+  "item.random_tids_and_bits.tid_bit_ingot": "Tid Bit Ingot",
+  "item.random_tids_and_bits.tid_bit_sword_blade": "Tid Bit Sword Blade",
+  "itemGroup.tabtidsand_bits": "Tids and Bits",
+  "item.random_tids_and_bits.tid_bits": "Tid Bits",
+  "block.random_tids_and_bits.toolmakerblock": "Tool Maker Block",
+  "item.random_tids_and_bits.tids": "Tids",
+  "block.random_tids_and_bits.blockoftidbits": "Block of TidBits"
+}

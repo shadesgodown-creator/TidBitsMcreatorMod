@@ -1,0 +1,23 @@
+{
+  "_fv": 13,
+  "_type": "fluid",
+  "definition": {
+    "name": "MeltedTidBits",
+    "textureStill": "tidbitsstill",
+    "textureFlowing": "tidbitsmoving",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:TidsandBits"
+    },
+    "frequencyOnChunks": 8,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

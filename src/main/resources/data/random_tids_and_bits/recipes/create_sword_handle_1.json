@@ -1,0 +1,16 @@
+{
+  "group": "random_tids_and_bits",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "random_tids_and_bits:tid_bit_sword_handle",
+    "count": 2
+  }
+}

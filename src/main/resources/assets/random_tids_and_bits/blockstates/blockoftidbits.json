@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "random_tids_and_bits:block/blockoftidbits"
+    }
+  }
+}

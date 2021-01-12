@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bits"
+      },
+      {
+        "value": "CUSTOM:Bits"
+      },
+      {
+        "value": "CUSTOM:Bits"
+      },
+      {
+        "value": "CUSTOM:Bits"
+      },
+      {
+        "value": "CUSTOM:Tids"
+      },
+      {
+        "value": "CUSTOM:Bits"
+      },
+      {
+        "value": "CUSTOM:Bits"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "CUSTOM:Bits"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TidBits"
+    },
+    "name": "make_tids_and_bits",
+    "namespace": "mod"
+  }
+}

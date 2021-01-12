@@ -1,0 +1,5 @@
+{
+  "parent": "forge:item/bucket_drip",
+  "loader": "forge:bucket",
+  "fluid": "random_tids_and_bits:melted_tid_bits"
+}

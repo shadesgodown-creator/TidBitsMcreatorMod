@@ -1,0 +1,13 @@
+{
+  "group": "random_tids_and_bits",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "random_tids_and_bits:blockoftidbits"
+    }
+  ],
+  "result": {
+    "item": "random_tids_and_bits:tid_bit_ingot",
+    "count": 9
+  }
+}

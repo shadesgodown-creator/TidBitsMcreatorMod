@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "random_tids_and_bits:blocks/tidbitsblock",
+    "up": "random_tids_and_bits:blocks/tidbitsblock",
+    "north": "random_tids_and_bits:blocks/tidbitsblock",
+    "east": "random_tids_and_bits:blocks/tidbitsblock",
+    "south": "random_tids_and_bits:blocks/tidbitsblock",
+    "west": "random_tids_and_bits:blocks/tidbitsblock",
+    "particle": "random_tids_and_bits:blocks/tidbitsblock"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Tids",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tids"
+    },
+    {
+      "name": "TidsandBits",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tidsand_bits"
+    },
+    {
+      "name": "Bits",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bits"
+    },
+    {
+      "name": "TidBits",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tid_bits"
+    },
+    {
+      "name": "MeltedTidBits",
+      "type": "fluid",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "melted_tid_bits"
+    },
+    {
+      "name": "TidsCreate",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tids_create"
+    },
+    {
+      "name": "BitsCreate",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bits_create"
+    },
+    {
+      "name": "MakeTidsAndBits",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_tids_and_bits"
+    },
+    {
+      "name": "Blockoftidbits",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockoftidbits"
+    },
+    {
+      "name": "Blocktidbitscreate",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocktidbitscreate"
+    },
+    {
+      "name": "TidBitIngot",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tid_bit_ingot"
+    },
+    {
+      "name": "Makeingot1",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "makeingot_1"
+    },
+    {
+      "name": "ToolMaker",
+      "type": "gui",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_maker"
+    },
+    {
+      "name": "Toolmakerblock",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toolmakerblock"
+    },
+    {
+      "name": "TidBitSwordBlade",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tid_bit_sword_blade"
+    },
+    {
+      "name": "TidBitSwordHandle",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tid_bit_sword_handle"
+    },
+    {
+      "name": "SwordBladeCreate1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sword_blade_create_1"
+    },
+    {
+      "name": "CreateSwordHandle1",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "create_sword_handle_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.random_tids_and_bits.melted_tid_bits_bucket": "MeltedTidBits Bucket",
+      "fluid.melted_tid_bits": "MeltedTidBits",
+      "item.random_tids_and_bits.tid_bit_sword_handle": "Tid Bit Sword Handle",
+      "item.random_tids_and_bits.bits": "Bits",
+      "item.random_tids_and_bits.tid_bit_ingot": "Tid Bit Ingot",
+      "item.random_tids_and_bits.tid_bit_sword_blade": "Tid Bit Sword Blade",
+      "itemGroup.tabtidsand_bits": "Tids and Bits",
+      "item.random_tids_and_bits.tid_bits": "Tid Bits",
+      "block.random_tids_and_bits.toolmakerblock": "Tool Maker Block",
+      "item.random_tids_and_bits.tids": "Tids",
+      "block.random_tids_and_bits.blockoftidbits": "Block of TidBits"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "random_tids_and_bits",
+    "modName": "random tids and bits",
+    "version": "1.0.0",
+    "author": "Aidan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.randomtidsandbits",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

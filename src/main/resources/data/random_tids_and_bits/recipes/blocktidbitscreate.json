@@ -1,0 +1,42 @@
+{
+  "group": "random_tids_and_bits",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "1": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "2": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "3": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "6": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "7": {
+      "item": "random_tids_and_bits:tid_bits"
+    },
+    "8": {
+      "item": "random_tids_and_bits:tid_bits"
+    }
+  },
+  "result": {
+    "item": "random_tids_and_bits:blockoftidbits",
+    "count": 1
+  }
+}

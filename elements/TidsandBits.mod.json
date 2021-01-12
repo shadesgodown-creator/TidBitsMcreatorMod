@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Tids and Bits",
+    "icon": {
+      "value": "CUSTOM:TidBits"
+    },
+    "showSearch": true
+  }
+}

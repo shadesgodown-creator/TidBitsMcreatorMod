@@ -1,0 +1,42 @@
+{
+  "group": "random_tids_and_bits",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "random_tids_and_bits:bits"
+    },
+    "1": {
+      "item": "random_tids_and_bits:bits"
+    },
+    "2": {
+      "item": "random_tids_and_bits:bits"
+    },
+    "3": {
+      "item": "random_tids_and_bits:bits"
+    },
+    "4": {
+      "item": "random_tids_and_bits:tids"
+    },
+    "5": {
+      "item": "random_tids_and_bits:bits"
+    },
+    "6": {
+      "item": "random_tids_and_bits:bits"
+    },
+    "7": {
+      "tag": "minecraft:coals"
+    },
+    "8": {
+      "item": "random_tids_and_bits:bits"
+    }
+  },
+  "result": {
+    "item": "random_tids_and_bits:tid_bits",
+    "count": 8
+  }
+}
